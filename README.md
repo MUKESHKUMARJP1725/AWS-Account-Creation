@@ -1,6 +1,6 @@
  # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
-### REG NO : 212222110006
-### NAME: BHARATH K
+### REG NO : 212222223002
+### NAME: MUKESH KUMAR JP
 
 ## AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
@@ -27,7 +27,6 @@ This experiment involves creating an AWS account, configuring security settings 
 ## OUTPUT
 
 ### ROOT USER:
-![image](https://github.com/user-attachments/assets/de3bbba6-a1a4-4626-99d4-ab96cf280be9)
 ![image](https://github.com/user-attachments/assets/a27571ef-3a30-46c2-811d-73d52f6f1843)
 
 
