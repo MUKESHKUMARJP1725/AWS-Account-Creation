@@ -1,13 +1,17 @@
- # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
-### REG NO : 212222223002
-### NAME: MUKESH KUMAR JP
+ # EX 2 CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
+```
+REG No: 212222223002
+NAME: MUKESH KUMAR JP
+```
 
 ## AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
+
 ## PROBLEM STATEMENT :
 This experiment involves creating an AWS account, configuring security settings for the root user, and setting up an IAM user. IAM users allow for secure, managed access to AWS resources without exposing the main account's root credentials.
 
 ## ALGORITHM :
+
  ### Step 1:
  Create an AWS Account </br>
  ### Step 2:
@@ -27,16 +31,19 @@ This experiment involves creating an AWS account, configuring security settings 
 ## OUTPUT
 
 ### ROOT USER:
-![image](https://github.com/user-attachments/assets/a27571ef-3a30-46c2-811d-73d52f6f1843)
+![WhatsApp Image 2024-11-21 at 11 30 37_01e5d1de](https://github.com/user-attachments/assets/5c145276-1811-449b-a625-5f07b2b5dc1e)
 
-
-
+![WhatsApp Image 2024-11-21 at 11 30 37_c724578a](https://github.com/user-attachments/assets/573b0eca-35e2-4fa4-b3f7-90ab08485e8b)
 
 
  ### IAM USER:
 
+![Screenshot 2024-11-21 113748](https://github.com/user-attachments/assets/b28cb64a-3afa-4117-9679-9b34da834ce2)
 
-![Screenshot 2024-08-30 102245](https://github.com/user-attachments/assets/d1f64c91-3593-4f9f-a617-57038a82df5c)
+![Screenshot 2024-11-21 114357](https://github.com/user-attachments/assets/9995b79a-606e-46c1-8d7f-1ffba108ed2a)
+
+
+
 
 
 ## RESULT
